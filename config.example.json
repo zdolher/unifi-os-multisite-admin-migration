@@ -1,0 +1,6 @@
+{
+  "base_url": "https://unifi.example.net:11443",
+  "browser_channel": "chrome",
+  "allow_insecure_tls": false,
+  "manual_admin_usernames": ["platformadmin1", "platformadmin2"]
+}
